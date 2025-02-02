@@ -3,3 +3,4 @@ I developed a comprehensive project using Structure Query Language (SQL) to crea
 ## Objective
 The project aims to analyze retail store data transaction details to uncover insights related to sales performance, product trends and customer purchasing behavior.
 ## [Dataset used][-<a href= "https://https://github.com/Slyomeye/Retail-Store-Analysis/upload/main">Dataset</a>
+-<a href= "https://github.com/Slyomeye/Retail-Store-Analysis/blob/main/retail_store_sales.csv">Dataset</a>
