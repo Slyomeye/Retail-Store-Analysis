@@ -19,7 +19,8 @@ I cleaned the data by removing duplicates, formatting date types, removing null 
 -	What is the monthly sales trend performance over time?
 -	What are the price changes of each category over time?
 
-#Queries[-<a href= "https://github.com/Slyomeye/Retail-Store-Analysis/blob/main/SQLQuery5%20All%20Queries.sql">Dataset</a>]
+- ##Queries
+-<a href= "https://github.com/Slyomeye/Retail-Store-Analysis/blob/main/SQLQuery5%20All%20Queries.sql">Dataset</a>]
 
 
 
