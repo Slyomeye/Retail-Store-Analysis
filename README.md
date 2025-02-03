@@ -22,6 +22,19 @@ I cleaned the data by removing duplicates, formatting date types, removing null 
   Queries
 [<a href= "https://github.com/Slyomeye/Retail-Store-Analysis/blob/main/SQLQuery5%20All%20Queries.sql">Dataset</a>]
 
+## Insights
+The number of transactions and total revenue were determined. Butchers category was the top revenue generating category followed by electric household essentials and beverages. Customers with the most expenses, repeating customers, customers with the highest number of purchases since their first purchase date were uncovered and monthly sales performance, price trends over time were also determined.
+
+## Recommendations
+- Inventory management should be well utilized especially stocking up on top selling categories to prevent shortages.
+- Offer exclusive discounts for high value customers and implement a reward program for repeat/continuous shoppers.
+- Promote underperforming categories/products with strategic discounts
+- Improve low sales days by running special promotions on low sales days.
+
+## Conclusion
+In analyzing the data, I was able to identify key trends in revenue, customer behavior, product performances and payment preferences. These insights will help the store to make data driven decisions to increase profitability, improve revenue and customer satisfaction. 
+ 
+
 
 
 
