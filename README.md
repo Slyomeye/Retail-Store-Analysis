@@ -18,16 +18,10 @@ I cleaned the data by removing duplicates, formatting date types, removing null 
 -	With customer retention analysis, find the customers that are still purchasing from the store and how many purchases made by each customer from their first purchase date.
 -	What is the monthly sales trend performance over time?
 -	What are the price changes of each category over time?
-#Queries[Here]
+#Queries[Here]-<a href= "https://github.com/Slyomeye/Retail-Store-Analysis/blob/main/SQLQuery5%20All%20Queries.sql">Dataset</a>
 
 
 
 
 
- --Price trends over time
- SELECT [Category]
-	   ,FORMAT([Transaction_Date], 'MMMM/yy') AS "Month"
-	   ,SUM([Unit Price]) AS "Avg_Price" 
-	FROM [IZUCHUKWU ].[dbo].[retail_store_sales]
-	GROUP BY [Category],FORMAT([Transaction_Date], 'MMMM/yy') 
-	ORDER BY Month ASC
+
